@@ -18,10 +18,6 @@ function App() {
           Learn React
         </a>
       </header>
-      <body
-      className="body">
-        This is my custom text 
-      </body>
     </div>
   );
 }
